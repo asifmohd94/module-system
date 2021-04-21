@@ -1,0 +1,14 @@
+{
+  "name": "statistic-module",
+  "version": "1.0.0",
+  "description": "statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "asif",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
